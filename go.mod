@@ -23,7 +23,7 @@ require (
 	github.com/golang/mock v1.4.4
 	github.com/golang/protobuf v1.4.3
 	github.com/google/btree v1.0.0
-	github.com/google/certificate-transparency-go v1.0.21
+	github.com/google/certificate-transparency-go v1.1.1
 	github.com/google/go-cmp v0.5.4
 	github.com/google/uuid v1.1.1 // indirect
 	github.com/gorilla/websocket v1.4.1 // indirect
@@ -48,7 +48,6 @@ require (
 	github.com/pseudomuto/protoc-gen-doc v1.3.2
 	github.com/spf13/cobra v0.0.5 // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
-	github.com/tmc/grpc-websocket-proxy v0.0.0-20190109142713-0ad062ec5ee5 // indirect
 	go.etcd.io/bbolt v1.3.4 // indirect
 	go.etcd.io/etcd v0.0.0-20200513171258-e048e166ab9c
 	go.opencensus.io v0.22.4
